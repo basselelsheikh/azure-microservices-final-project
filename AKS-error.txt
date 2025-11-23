@@ -1,0 +1,2 @@
+Please note that I tried deploying Azure Kubernetes Service multiple times and on two different Udacity temp accounts and it fails due to the error attached in screenshots/kubernetes-error.png.
+I use the temporary account Udacity gives me to do the Lab on, so maybe the error is due to quota exceeded or something
